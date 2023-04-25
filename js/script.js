@@ -1,1 +1,2 @@
-console.log('aman')
+console.log('selam')
+console.log('hey')
